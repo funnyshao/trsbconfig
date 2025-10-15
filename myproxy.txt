@@ -3,5 +3,6 @@
 
 # 代理补充列表
 #########################################
-+.neversee.cc
-+.966426.xyz
+DOMAIN-SUFFIX,neversee.cc
+
+DOMAIN-SUFFIX,966426.xyz
