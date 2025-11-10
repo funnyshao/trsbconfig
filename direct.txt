@@ -3,4 +3,7 @@
 
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 #########################################
-+.qinyues4.cc
+DOMAIN-SUFFIX,qinyues4.cc
+DOMAIN-SUFFIX,cdn.jiashule.com
+DOMAIN-SUFFIX,nod3.org
+DOMAIN-SUFFIX,userdog.sbs
