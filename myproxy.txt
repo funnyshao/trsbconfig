@@ -3,6 +3,8 @@
 
 # 代理补充列表
 #########################################
+DOMAIN,bwgrustdesk.966426.xyz
 DOMAIN-SUFFIX,neversee.cc
 DOMAIN-SUFFIX,966426.xyz
+
 
