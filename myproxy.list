@@ -1,18 +1,19 @@
 # 代理补充列表
 
-# 域名关键字匹配
-DOMAIN-KEYWORD,966426
+# ❌ 不要写 DOMAIN-KEYWORD,966426
+# ✅ 直接写根域名，会自动包含所有子域名
+966426.xyz 
 
-# 国外DNS
-DOMAIN-SUFFIX,neversee.cc
-DOMAIN-SUFFIX,claw.cloud
-DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN-SUFFIX,busonlineticket.com
-DOMAIN-SUFFIX,1024.day
+# ❌ 不要写 DOMAIN-SUFFIX,
+neversee.cc
+claw.cloud
+v2rayssr.com
+busonlineticket.com
+1024.day
 
-# emby
-DOMAIN,cf.xmsl.org
-DOMAIN,emby.cn2gias.uk
-DOMAIN,emby01.cn2gias.uk
-DOMAIN,b2.zdz.plus
-DOMAIN,tv.luyuyun.com
+# ❌ 不要写 DOMAIN,
+cf.xmsl.org
+emby.cn2gias.uk
+emby01.cn2gias.uk
+b2.zdz.plus
+tv.luyuyun.com
