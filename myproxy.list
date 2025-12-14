@@ -1,17 +1,16 @@
 # 代理补充列表
 
-# ❌ 不要写 DOMAIN-KEYWORD,966426
-# ✅ 直接写根域名，会自动包含所有子域名
-966426.xyz
+# ❌ 不要写 DOMAIN-KEYWORD
++.966426.xyz
 
-# ❌ 不要写 DOMAIN-SUFFIX,
-neversee.cc
-claw.cloud
-v2rayssr.com
-busonlineticket.com
+# ❌ 不要写 DOMAIN-SUFFIX
++.neversee.cc
++.claw.cloud
++.v2rayssr.com
++.busonlineticket.com
 1024.day
 
-# ❌ 不要写 DOMAIN,
+# EMBY
 cf.xmsl.org
 emby.cn2gias.uk
 emby01.cn2gias.uk
