@@ -6,4 +6,5 @@
 DOMAIN-SUFFIX,qinyues4.cc
 DOMAIN-SUFFIX,cdn.jiashule.com
 DOMAIN-SUFFIX,nod3.org
-DOMAIN-SUFFIX,userdog.sbs
++.xf9pzeslxw.sbs
+
