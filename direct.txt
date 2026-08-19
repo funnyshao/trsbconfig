@@ -8,4 +8,4 @@ DOMAIN-SUFFIX,cdn.jiashule.com
 DOMAIN-SUFFIX,nod3.org
 UD2RdK31TK6zLVZikR.xf9pzeslxw.sbs
 sub1.sntp.me
-
+telemetry-in.battlenet.com.cn
